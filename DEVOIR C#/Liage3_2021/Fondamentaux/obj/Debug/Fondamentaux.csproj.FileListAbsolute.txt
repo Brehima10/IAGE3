@@ -1,0 +1,11 @@
+C:\C#\Liage3_2021\Fondamentaux\obj\Debug\Fondamentaux.csprojAssemblyReference.cache
+C:\C#\Liage3_2021\Fondamentaux\obj\Debug\Fondamentaux.csproj.CoreCompileInputs.cache
+C:\C#\Liage3_2021\Fondamentaux\bin\Debug\Fondamentaux.exe.config
+C:\C#\Liage3_2021\Fondamentaux\bin\Debug\Fondamentaux.exe
+C:\C#\Liage3_2021\Fondamentaux\bin\Debug\Fondamentaux.pdb
+C:\C#\Liage3_2021\Fondamentaux\bin\Debug\GestionEtudiant.exe
+C:\C#\Liage3_2021\Fondamentaux\bin\Debug\GestionEtudiant.pdb
+C:\C#\Liage3_2021\Fondamentaux\bin\Debug\GestionEtudiant.exe.config
+C:\C#\Liage3_2021\Fondamentaux\obj\Debug\Fondamentaux.csproj.CopyComplete
+C:\C#\Liage3_2021\Fondamentaux\obj\Debug\Fondamentaux.exe
+C:\C#\Liage3_2021\Fondamentaux\obj\Debug\Fondamentaux.pdb

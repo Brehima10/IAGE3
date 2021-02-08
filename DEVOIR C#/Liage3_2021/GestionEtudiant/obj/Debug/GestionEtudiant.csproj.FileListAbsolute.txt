@@ -1,0 +1,17 @@
+C:\C#\Liage3_2021\GestionEtudiant\bin\Debug\GestionEtudiant.exe.config
+C:\C#\Liage3_2021\GestionEtudiant\bin\Debug\GestionEtudiant.exe
+C:\C#\Liage3_2021\GestionEtudiant\bin\Debug\GestionEtudiant.pdb
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.csprojAssemblyReference.cache
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.Properties.Resources.resources
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.csproj.GenerateResource.cache
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.csproj.CoreCompileInputs.cache
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.exe
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.pdb
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.Form1.resources
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.FrmConnexion.resources
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.FrmMenu.resources
+C:\C#\Liage3_2021\GestionEtudiant\bin\Debug\EntityFramework.dll
+C:\C#\Liage3_2021\GestionEtudiant\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Liage3_2021\GestionEtudiant\bin\Debug\EntityFramework.xml
+C:\C#\Liage3_2021\GestionEtudiant\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Liage3_2021\GestionEtudiant\obj\Debug\GestionEtudiant.csproj.CopyComplete
