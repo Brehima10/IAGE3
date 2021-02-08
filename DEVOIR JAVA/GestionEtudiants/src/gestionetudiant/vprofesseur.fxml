@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: yellow;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="professeurController">
+   <children>
+      <Text layoutX="103.0" layoutY="97.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Liste Professeur">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="315.0" layoutY="96.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Classe">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <ComboBox layoutX="364.0" layoutY="79.0" onAction="#handleClasse" prefHeight="25.0" prefWidth="139.0" style="-fx-background-color: white;" />
+      <Text layoutX="351.0" layoutY="127.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Modules enseignés">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <TableView fx:id="tbProfesseur" layoutX="48.0" layoutY="112.0" prefHeight="212.0" prefWidth="227.0">
+         <columns>
+            <TableColumn fx:id="tbid" prefWidth="75.0" text="id" />
+            <TableColumn fx:id="tbnom" prefWidth="75.0" text="nom" />
+            <TableColumn fx:id="tbgrade" prefWidth="75.0" text="grade" />
+         </columns>
+      </TableView>
+      <TableView layoutX="334.0" layoutY="131.0" prefHeight="194.0" prefWidth="153.0">
+         <columns>
+            <TableColumn prefWidth="75.0" text="libelle" />
+            <TableColumn prefWidth="75.0" text="classe" />
+         </columns>
+      </TableView>
+   </children>
+</Pane>
